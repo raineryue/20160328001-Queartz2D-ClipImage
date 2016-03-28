@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>20160328001-Queartz2D-ClipImage.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>D5AD5E921CA8C9D300C645B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D5AD5EAB1CA8C9D300C645B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D5AD5EB61CA8C9D300C645B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

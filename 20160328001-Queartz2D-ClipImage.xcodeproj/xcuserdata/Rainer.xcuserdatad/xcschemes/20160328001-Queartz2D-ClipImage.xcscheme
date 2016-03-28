@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0730"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D5AD5E921CA8C9D300C645B5"
+               BuildableName = "20160328001-Queartz2D-ClipImage.app"
+               BlueprintName = "20160328001-Queartz2D-ClipImage"
+               ReferencedContainer = "container:20160328001-Queartz2D-ClipImage.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D5AD5EAB1CA8C9D300C645B5"
+               BuildableName = "20160328001-Queartz2D-ClipImageTests.xctest"
+               BlueprintName = "20160328001-Queartz2D-ClipImageTests"
+               ReferencedContainer = "container:20160328001-Queartz2D-ClipImage.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D5AD5EB61CA8C9D300C645B5"
+               BuildableName = "20160328001-Queartz2D-ClipImageUITests.xctest"
+               BlueprintName = "20160328001-Queartz2D-ClipImageUITests"
+               ReferencedContainer = "container:20160328001-Queartz2D-ClipImage.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D5AD5E921CA8C9D300C645B5"
+            BuildableName = "20160328001-Queartz2D-ClipImage.app"
+            BlueprintName = "20160328001-Queartz2D-ClipImage"
+            ReferencedContainer = "container:20160328001-Queartz2D-ClipImage.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D5AD5E921CA8C9D300C645B5"
+            BuildableName = "20160328001-Queartz2D-ClipImage.app"
+            BlueprintName = "20160328001-Queartz2D-ClipImage"
+            ReferencedContainer = "container:20160328001-Queartz2D-ClipImage.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D5AD5E921CA8C9D300C645B5"
+            BuildableName = "20160328001-Queartz2D-ClipImage.app"
+            BlueprintName = "20160328001-Queartz2D-ClipImage"
+            ReferencedContainer = "container:20160328001-Queartz2D-ClipImage.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
